@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/redhendery/hapiJS#readme",
   "dependencies": {
-    "hapi": "^14.2.0"
+    "hapi": "^14.2.0",
+    "inert": "^4.0.1"
   }
 }
